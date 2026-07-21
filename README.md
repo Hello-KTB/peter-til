@@ -53,3 +53,61 @@
 26.06.11 - 교착 상태, 기아 상태, 세마포어, 리눅스 명령어
 
 26.06.12 - 딥다이브(리눅스의 파일 권한 체계가 사용자, 그룹, 기타 사용자 단위로 접근을 제어하는 방식을 설명하고, 잘못된 권한 설정이 서버 배포 환경에서 보안 문제나 실행 오류로 이어질 수 있는 사례를 서술하시오.)
+
+### [6월 3째주, 6주차] : 
+
+26.06.15 - 네트워크 기초, 네트워크 장비
+
+26.06.16 - 트래픽 처리 방식, WireShark
+
+26.06.17 - Proxy, VPN, NAT, 네트워크 모델, IP 주소 관리
+
+26.06.19 - 딥다이브(대규모 이벤트(예: 티켓팅, 쇼핑몰 세일, DDoS 공격) 상황에서 발생하는 네트워크 병목 현상을 설명하고, 이를 완화하기 위한 전략(레이트 리미팅, CDN, Anycast, 캐싱 등)을 서술하시오.)
+
+### [6월 4째주, 7주차] : 
+
+26.06.22 - 데이터센터, VPC, IAM, 보안그룹, Route53, EC2
+
+26.06.23 - EFS, S3, RDS
+
+26.06.24 - ElastiCache, ELB, CloudFront
+
+26.06.25 - API Gateway, CloudTrail, CloudWatch, Lambda, FE
+
+### [6월 5째주, 8주차] : 
+
+26.06.29 - DevOps, Docker, Container
+
+26.06.30 - Portainer, Volume
+
+### [7월 1째주, 8주차] : 
+
+26.07.01 - Bridge Network, Reverse Proxy
+
+26.07.02 - Docker Compose, IaC
+
+26.07.03 - 딥다이브(가상머신(VM)과 컨테이너의 구조적 차이를 설명하고, 자원 격리·성능·배포 속도 측면에서 컨테이너가 실무적으로 어떤 강점과 한계를 가지는지 분석하시오.)
+
+### [7월 2째주, 9주차] : 
+
+26.07.06 - CI/CD, Test Code, Github Actions
+
+26.07.07 - 무중단 배포, 배포 방식
+
+26.07.08 - AWS ECR, AWS Code Deploy
+
+26.07.10 - 딥다이브(도커 이미지가 커지면 발생할 수 있는 문제(빌드 시간, 배포 속도, 취약점 증가)를 설명하고, 멀티스테이지 빌드, 최소 베이스 이미지, 캐시 활용 등 이미지 최적화 전략을 서술하시오.)
+
+### [7월 3째주, 10주차] : 
+
+26.07.13 - k8s, Master Node / Worker Node
+
+26.07.14 - Pod, Label, Selector
+
+26.07.15 - Service, Probe, QoS Class
+
+### [7월 4째주, 11주차] : 
+
+26.07.20 - Namespace, ResourceQuota, LimitRange, ConfigMap, Secret
+
+26.07.21 - Controller, ReplicaSet, Deployment
